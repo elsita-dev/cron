@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "143e7fca-e71d-40c6-8765-3351caf498d1",
-      "database_name": "cron"
+      "database_name": "d1-tracking",
+      "database_id": "7068903d-1c8a-4d3d-9db3-d378e494e3bf"
     }
   ],
   "observability": {
