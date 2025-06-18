@@ -10,6 +10,9 @@
       "database_id": "7068903d-1c8a-4d3d-9db3-d378e494e3bf"
     }
   ],
+  "cron": [
+    "0 */12 * * *"
+  ],
   "observability": {
     "enabled": true
   }
